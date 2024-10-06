@@ -100,3 +100,19 @@ button {
 button:hover {
     background-color: #0056b3;
 }
+
+.registrar {
+    font-size: .9em;
+    color: #BD104E;
+    text-align: center;
+    margin: 25px 0 10px;
+}
+
+.registrar p a{
+    color: #BD104E;
+    text-decoration: none;
+}
+.registrar p a:hover{
+    text-decoration: underline;
+}
+
